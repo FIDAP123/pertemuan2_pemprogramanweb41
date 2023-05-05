@@ -11,7 +11,7 @@
     }
 
     function baseurl($link=''){
-        $baseurl="http://localhost/pertemuan1/";
+        $baseurl="http://localhost/coba/";
         
         if(!empty($link)){
             $url=$baseurl.$link;
